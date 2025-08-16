@@ -53,7 +53,8 @@ table {
     width: 100%;
     border-collapse: collapse;
     min-width: 720px;
-        background: #f0f0f0);
+    background: #f0f0f0);
+    border-radius: 50px;    
   }
   thead th {
     position: sticky; top: 0;

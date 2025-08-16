@@ -53,6 +53,7 @@ table {
     width: 100%;
     border-collapse: collapse;
     min-width: 720px;
+        background: #f0f0f0);
   }
   thead th {
     position: sticky; top: 0;
@@ -73,7 +74,7 @@ table {
     
   }
   tbody tr:nth-child(odd) { background: #f0f0f0; }
-  tbody tr:hover { background: #e0e0e0; }
+
 
   .Print length {
     font-variant-numeric: tabular-nums;

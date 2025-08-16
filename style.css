@@ -52,7 +52,8 @@ color: #ff0335;
 table {
     width: 100%;
     min-width: 720px;
-    border-radius: 50px;    
+    border-radius: 50px;
+    background: #7efc7e;
   }
   thead th {
     position: sticky; top: 0;

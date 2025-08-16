@@ -70,10 +70,10 @@ table {
     padding: 14px 16px;
     border-bottom: 1px solid rgba(255,255,255,.06);
     color: var(--text);
-    font-family: Helvetica, sans-serif
+    
   }
-  tbody tr:nth-child(odd) { background: rgba(255,255,255,.02); }
-  tbody tr:hover { background: rgba(110,168,254,.08); }
+  tbody tr:nth-child(odd) { background: #f0f0f0; }
+  tbody tr:hover { background: #e0e0e0; }
 
   .Print length {
     font-variant-numeric: tabular-nums;

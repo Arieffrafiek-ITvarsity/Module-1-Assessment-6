@@ -48,3 +48,44 @@ color: #ff0335;
     font-size: 12px;
     letter-spacing: .3px;
   }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 720px;
+  }
+  thead th {
+    position: sticky; top: 0;
+    background: linear-gradient(180deg, #1a2552 0%, #141d3f 100%);
+    color: #eaf0ff;
+    text-align: left;
+    font-weight: 700;
+    padding: 14px 16px;
+    letter-spacing: .3px;
+    border-bottom: 1px solid var(--ring);
+    white-space: nowrap;
+  }
+  tbody td {
+    padding: 14px 16px;
+    border-bottom: 1px solid rgba(255,255,255,.06);
+    color: var(--text);
+  }
+  tbody tr:nth-child(odd) { background: rgba(255,255,255,.02); }
+  tbody tr:hover { background: rgba(110,168,254,.08); }
+  .Print length {
+    font-variant-numeric: tabular-nums;
+    color: var(--muted);
+  }
+  .Item Weight {
+    font-weight: 600;
+  }
+  .Reading age {
+    font-variant-numeric: tabular-nums;
+    font-weight: 700;
+    color: #d6e3ff;
+  }
+  .Dimensions {
+    color: var(--muted);
+
+
+

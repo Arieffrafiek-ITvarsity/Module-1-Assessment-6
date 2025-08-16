@@ -58,6 +58,7 @@ table {
   thead th {
     position: sticky; top: 0;
     color: #000000;
+    background-color: #6cff52;
     text-align: left;
     font-weight: 700;
     padding: 14px 16px;
@@ -70,9 +71,9 @@ table {
   tbody td {
     padding: 14px 16px;
     border-bottom: 1px solid rgba(255,255,255,.06);
-    color: var(--text);
+    color: #000000;
     border-radius: 10px;      
-    
+    background-color: #6cff52;
   }
 
 

@@ -42,10 +42,11 @@ color: #ff0335;
     border-radius: 999px;
     
     border: 2px solid var(--ring);
-    color: #ff0335;
+    color: #ffffff;
     font-size: 12px;
     letter-spacing: .3px;
-     font-family: Helvetica, san-serif;   
+    font-family: Helvetica, san-serif;
+        background-color: #ff0335;
   }
 
 table {

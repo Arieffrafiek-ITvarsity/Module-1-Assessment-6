@@ -57,7 +57,7 @@ table {
   }
   thead th {
     position: sticky; top: 0;
-    background: #f0f0f0;
+    background: #ffffff;
     color: #000000;
     text-align: left;
     font-weight: 700;
@@ -65,7 +65,8 @@ table {
     letter-spacing: .3px;
     border-bottom: 1px solid var(--ring);
     white-space: nowrap;
-    font-family: Helvetica, sans-serif     
+    font-family: Helvetica, sans-serif;
+    border-radius: 10px; 
   }
   tbody td {
     padding: 14px 16px;

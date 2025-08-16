@@ -89,5 +89,14 @@ table {
   .Dimensions {
     color: var(--muted);
 
+          h1 { margin: 0 0 4px; font-size: clamp(24px, 3.8vw, 40px); letter-spacing: .2px; }
+  p.lead { margin: 6px 0 0; color: black ; font-size: clamp(14px, 1.9vw, 16px); }
+  .card {
+    margin-top: 18px;
+    background: linear-gradient(180deg, var(--card) 0%, var(--card-2) 100%);
+    border-radius: 18px;
+    border: 1px solid var(--ring);
+    overflow: hidden;
+
 
 

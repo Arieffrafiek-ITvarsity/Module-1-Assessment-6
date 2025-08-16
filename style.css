@@ -25,6 +25,7 @@ width: 100;
 height: 40px;
 background-color: #0455e0;
 padding-top:12px;
+border-radius: 10px;                
         }
 #menu a{
 color: #ffffff;

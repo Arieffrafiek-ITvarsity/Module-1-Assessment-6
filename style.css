@@ -56,8 +56,8 @@ table {
   }
   thead th {
     position: sticky; top: 0;
-    background: linear-gradient(180deg, #1a2552 0%, #141d3f 100%);
-    color: #e8e8e8;
+    background: #e8e8e8);
+    color: #ffffff;
     text-align: left;
     font-weight: 700;
     padding: 14px 16px;
